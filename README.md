@@ -41,7 +41,9 @@
 ---
 
 ## 📸 معاينة
-![معاينة المشروع (https://asmaagad.github.io/Expense_Manager/)  
+![معاينة المشروع (https://asmaagad.github.io/Expense_Manager/) 
+(Screenshot 2026-01-22 043136.png) Expense_Manager
+
 
 ---
 
